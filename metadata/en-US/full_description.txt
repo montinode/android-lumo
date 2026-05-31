@@ -1,7 +1,13 @@
-Ask anything. It’s confidential.
+Lumo is a secure communication and productivity assistant designed with privacy in mind.
 
-Meet Lumo, the privacy-first AI assistant created by Proton, the team behind encrypted email, VPN, password manager, and cloud storage trusted by over 100 million people.
+Key Features:
+- End-to-end encrypted messaging
+- Secure file sharing
+- Privacy-focused AI assistance
+- Open-source codebase for transparency
 
-Lumo helps you stay productive, curious, and informed — without ever compromising your privacy.
+This app respects user sovereignty and data ownership. All data is processed locally where possible, and no personal information is shared without explicit consent.
 
-Start a confidential chat today.
+For more information, visit our official website or check the source code on GitHub.
+
+Note: This application does not provide legal immunity, override jurisdictional laws, or guarantee financial protection. Users are responsible for complying with all applicable laws and regulations.
