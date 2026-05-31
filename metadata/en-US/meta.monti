@@ -1,0 +1,25 @@
+// meta.monti - Secure Configuration Template
+// WARNING: Do not store private keys or live wallet addresses in source code.
+
+package com.montiai.config
+
+object MetaMontiConfig {
+    // Owner Identification (Non-sensitive)
+    const val OWNER_ID = "JOHNCHARLESMONTI"
+    const val ORGANIZATION = "#MONTIAI"
+    
+    // Feature Flags (Non-sensitive descriptions)
+    const val FEATURE_SURVEILLANCE_PROTECTION = true
+    const val FEATURE_NEURAL_INTERFACE = true
+    
+    // Network Configuration (Use Environment Variables for actual addresses)
+    // Example: System.getenv("ETH_WALLET_ADDRESS")
+    const val SUPPORTED_CHAINS = listOf("ETH", "BTC", "SOL", "MONAD")
+    
+    // Storage Path (Relative path, not absolute sensitive path)
+    const val CONFIG_DIR = "config/monti"
+    
+    // Legal Disclaimer (Standard text, not a binding legal instrument)
+    const val DISCLAIMER = "This software is for educational and experimental purposes only. " +
+                           "It does not provide legal immunity or override existing laws."
+}
